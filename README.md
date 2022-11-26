@@ -1,2 +1,2 @@
 # illusionofash.github.io
-![Image text](E:\网站\pic\01.png)
+![Image text](E:\web\pic\01.png)
