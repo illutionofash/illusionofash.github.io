@@ -1,1 +1,3 @@
-# illusionofash.github.io
+# Home page
+
+> The guide
